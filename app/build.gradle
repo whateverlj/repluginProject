@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+    defaultConfig {
+        applicationId "com.mytest.mytestdemo"
+        minSdkVersion 23
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk{
+            // 设置支持的SO库架构，第三方给的so库哪几种架构，就配置这几种架构
+            moduleName "Test"
+            abiFilters 'armeabi-v7a'
+            ldLibs "log"
+        }
+        sourceSets {
+            main {
+                jni.srcDirs = []
+                jniLibs.srcDirs = ['src/main/libs']
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+apply plugin: 'replugin-host-gradle'
+repluginHostConfig {
+    /**
+     * 是否使用 AppCompat 库
+     * 不需要个性化配置时，无需添加
+     */
+    useAppCompat = true
+    /**
+     * 背景不透明的坑的数量
+     * 不需要个性化配置时，无需添加
+     */
+    countNotTranslucentStandard = 6
+    countNotTranslucentSingleTop = 2
+    countNotTranslucentSingleTask = 3
+    countNotTranslucentSingleInstance = 2
+}
+dependencies {
+    implementation 'junit:junit:4.12'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:28.+'
+    implementation 'com.android.support:design:28.+'
+    implementation 'com.android.support.test:runner:1.0.2'
+    implementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation 'com.qihoo360.replugin:replugin-host-lib:2.2.4'
+}

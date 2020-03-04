@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!--<Button-->
+        <!--android:id="@+id/btn"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="300dp"-->
+        <!--android:layout_marginTop="300dp"-->
+        <!--android:background="#FFCC00"-->
+        <!--android:text="Hello"-->
+        <!--app:layout_behavior="com.example.myplugindemo.MyBehavior"-->
+        <!--/>-->
+
+    <!--<com.example.myplugindemo.MyView-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:layout_marginLeft="300dp"-->
+        <!--android:layout_marginTop="300dp"-->/
+        <!--android:background="#3366CC"-->
+         <!--/>-->
+    <!--<com.example.myplugindemo.MyView1-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp">-->
+        <!--<ImageView-->
+            <!--android:layout_width="150dp"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:background="@drawable/img1"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="150dp"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:background="@drawable/img2"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="150dp"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:background="@drawable/img3"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="150dp"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:background="@drawable/img4"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="150dp"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:background="@drawable/img5"/>-->
+    <!--</com.example.myplugindemo.MyView1>-->
+<!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:id="@+id/btn"-->
+    <!--android:text="测试"/>-->
+    <!--<com.example.myplugindemo.ClipView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="50dp"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--android:text="测试测试测试测试测试测试测试测试测试测试测试测试测试"-->
+        <!--/>-->
+
+
+    <com.scwang.smartrefresh.layout.SmartRefreshLayout
+        android:id="@+id/refreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srlEnableScrollContentWhenLoaded="true"
+        app:srlEnableFooterFollowWhenLoadFinished="true">
+        <com.scwang.smartrefresh.layout.header.ClassicsHeader
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:overScrollMode="never"
+            android:padding="10px"
+             />
+
+        <com.scwang.smartrefresh.layout.footer.ClassicsFooter
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srlClassicsSpinnerStyle="Translate"/>
+    </com.scwang.smartrefresh.layout.SmartRefreshLayout>
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</android.support.design.widget.CoordinatorLayout>

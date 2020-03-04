@@ -1,0 +1,2 @@
+include ':app', ':mytestplugindemo', ':commonlib'
+project(':mytestplugindemo').projectDir = new File('MyPluginDemo/app')

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <CheckedTextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:checkMark="@drawable/ic_check_selector"
+        android:duplicateParentState="true"
+        android:gravity="center_vertical|center"
+        android:padding="12dp"
+        android:textColor="@color/gray"
+        android:textSize="16dp" />
+
+</LinearLayout>

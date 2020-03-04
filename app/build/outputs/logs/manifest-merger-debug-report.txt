@@ -1,0 +1,838 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\espresso-core-3.0.2.aar\3f6c1921c559a34027339473c5494de5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.test:runner:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runner-1.0.2.aar\daefaa49e0e52f53784ac30e83c0543b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6efd752fdbae194ea50e9af6eb13479d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\12647ca8c79ab066ed34996436083699\AndroidManifest.xml:17:1-22:12
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:17:1-223:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9d2d4b30e59abf22201288e1aa4c3c58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\703e7ffd0e07ccba08fa1f2280375557\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c73e1a931a0036bb90ef95f7cbf8cd50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\abfe21ffed99bd89c6089648856aba4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60efdb139b52fd34ea5828a9d456b58b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\dd5f3a7e92fd5a1400871b73110ac4b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\7315caaa5ce14e14e215abdb561799c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\809f5c548b1d8b99ea8be4ca7afaaa29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4fa9d9b659ee3894ae012cd9027519aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d3515b73ec140b122897fce04ffcab0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\44020f7c11c72925c35eebdc9ec57fd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c6cdf7c46112eb671ac69fc13ea8b133\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dfe02aebd2fb438c819fc54f773e3df5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\528dabd1c087ee7b8dc7cc50a6dbd721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3fc2b2ecdda20176f174c1adcffe1461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d41ce60648d649cc2d59797366f091\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef370ff5fe80106aaee619d22e772e3f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\528b2fd0eec9838d8677f4e793f205ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\cf4b873932de0112d311e70ff3709001\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:monitor:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\monitor-1.0.2.aar\cf010d8d86705d82f74e3728fbe4dd3b\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\337f10f05a28e7d2a546ed340327292e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6915adc553b2b771a9271e52a3d5003\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b92f330c79e6646d290c1171ec199dce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3fb31b44ae59b673544d823e74ab7d3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ee72036a4d0e3415635fd105a650735b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\529dc2899e65f09ca67f969d71001d70\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b11fbc6c5c1fbfecab149e687a5d160c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6268751cf42342af067e79227dd1bd94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5ded320c6ff05d512066a31c07d1482c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\7e408bdeb8679a91230fae2787c66407\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:5-83
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:5-83
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:5-83
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\espresso-core-3.0.2.aar\3f6c1921c559a34027339473c5494de5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\espresso-core-3.0.2.aar\3f6c1921c559a34027339473c5494de5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runner-1.0.2.aar\daefaa49e0e52f53784ac30e83c0543b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runner-1.0.2.aar\daefaa49e0e52f53784ac30e83c0543b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6efd752fdbae194ea50e9af6eb13479d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6efd752fdbae194ea50e9af6eb13479d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\12647ca8c79ab066ed34996436083699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\12647ca8c79ab066ed34996436083699\AndroidManifest.xml:20:5-44
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:22:5-24:41
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9d2d4b30e59abf22201288e1aa4c3c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9d2d4b30e59abf22201288e1aa4c3c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\703e7ffd0e07ccba08fa1f2280375557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\703e7ffd0e07ccba08fa1f2280375557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c73e1a931a0036bb90ef95f7cbf8cd50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c73e1a931a0036bb90ef95f7cbf8cd50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\abfe21ffed99bd89c6089648856aba4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\abfe21ffed99bd89c6089648856aba4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60efdb139b52fd34ea5828a9d456b58b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60efdb139b52fd34ea5828a9d456b58b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\dd5f3a7e92fd5a1400871b73110ac4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\dd5f3a7e92fd5a1400871b73110ac4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\7315caaa5ce14e14e215abdb561799c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\7315caaa5ce14e14e215abdb561799c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\809f5c548b1d8b99ea8be4ca7afaaa29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\809f5c548b1d8b99ea8be4ca7afaaa29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4fa9d9b659ee3894ae012cd9027519aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4fa9d9b659ee3894ae012cd9027519aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d3515b73ec140b122897fce04ffcab0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d3515b73ec140b122897fce04ffcab0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\44020f7c11c72925c35eebdc9ec57fd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\44020f7c11c72925c35eebdc9ec57fd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c6cdf7c46112eb671ac69fc13ea8b133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c6cdf7c46112eb671ac69fc13ea8b133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dfe02aebd2fb438c819fc54f773e3df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dfe02aebd2fb438c819fc54f773e3df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\528dabd1c087ee7b8dc7cc50a6dbd721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\528dabd1c087ee7b8dc7cc50a6dbd721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3fc2b2ecdda20176f174c1adcffe1461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3fc2b2ecdda20176f174c1adcffe1461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d41ce60648d649cc2d59797366f091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d41ce60648d649cc2d59797366f091\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef370ff5fe80106aaee619d22e772e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef370ff5fe80106aaee619d22e772e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\528b2fd0eec9838d8677f4e793f205ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\528b2fd0eec9838d8677f4e793f205ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\cf4b873932de0112d311e70ff3709001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\cf4b873932de0112d311e70ff3709001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:monitor:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\monitor-1.0.2.aar\cf010d8d86705d82f74e3728fbe4dd3b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:monitor:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\monitor-1.0.2.aar\cf010d8d86705d82f74e3728fbe4dd3b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\337f10f05a28e7d2a546ed340327292e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\337f10f05a28e7d2a546ed340327292e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6915adc553b2b771a9271e52a3d5003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e6915adc553b2b771a9271e52a3d5003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b92f330c79e6646d290c1171ec199dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b92f330c79e6646d290c1171ec199dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3fb31b44ae59b673544d823e74ab7d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3fb31b44ae59b673544d823e74ab7d3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ee72036a4d0e3415635fd105a650735b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ee72036a4d0e3415635fd105a650735b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\529dc2899e65f09ca67f969d71001d70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\529dc2899e65f09ca67f969d71001d70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b11fbc6c5c1fbfecab149e687a5d160c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b11fbc6c5c1fbfecab149e687a5d160c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6268751cf42342af067e79227dd1bd94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6268751cf42342af067e79227dd1bd94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5ded320c6ff05d512066a31c07d1482c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5ded320c6ff05d512066a31c07d1482c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\7e408bdeb8679a91230fae2787c66407\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\7e408bdeb8679a91230fae2787c66407\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:5-83
+INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:5-83
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:42-71
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:4:15-41
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6efd752fdbae194ea50e9af6eb13479d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6efd752fdbae194ea50e9af6eb13479d\AndroidManifest.xml:22:5-20
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:26:5-221:19
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:26:5-221:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d41ce60648d649cc2d59797366f091\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d41ce60648d649cc2d59797366f091\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef370ff5fe80106aaee619d22e772e3f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef370ff5fe80106aaee619d22e772e3f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d1d41ce60648d649cc2d59797366f091\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:6:9-40
+activity#com.mytest.mytestdemo.MainActivity
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:20:27-74
+service#com.mytest.mytestdemo.MyService
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:23:9-28:19
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:24:37-62
+intent-filter#action:name:myBinder
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:25:13-27:29
+action#myBinder
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:26:17-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:26:25-48
+service#com.mytest.mytestdemo.BeanService
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:29:9-34:19
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:30:37-64
+intent-filter#action:name:myBinder1
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:31:13-33:29
+action#myBinder1
+ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:32:17-52
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MyTestDemo\app\src\main\AndroidManifest.xml:32:25-49
+provider#com.qihoo360.replugin.component.process.ProcessPitProviderUI
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:37:9-40:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:39:13-67
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:38:13-88
+provider#${applicationId}.loader.p.ProviderN1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:41:9-44:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:43:13-65
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:42:13-64
+provider#com.mytest.mytestdemo.loader.p.ProviderN1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:41:9-44:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:43:13-65
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:42:13-64
+service#${applicationId}.loader.s.ServiceN1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:47:13-63
+service#com.mytest.mytestdemo.loader.s.ServiceN1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:47:13-63
+provider#com.qihoo360.replugin.component.process.ProcessPitProviderLoader0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:50:9-54:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:54:13-39
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:52:13-66
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:51:13-93
+provider#${applicationId}.loader.p.Provider0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:55:9-59:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:59:13-39
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:57:13-64
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:56:13-63
+provider#com.mytest.mytestdemo.loader.p.Provider0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:55:9-59:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:59:13-39
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:57:13-64
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:56:13-63
+service#${applicationId}.loader.s.Service0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:61:9-64:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:64:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:62:13-62
+service#com.mytest.mytestdemo.loader.s.Service0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:61:9-64:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:64:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:62:13-62
+activity#${applicationId}.loader.a.Activity0_singleTask1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:66:9-74:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:72:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:71:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:70:13-44
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:69:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:68:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:74:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:67:13-75
+activity#com.mytest.mytestdemo.loader.a.Activity0_singleTask1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:66:9-74:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:72:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:71:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:70:13-44
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:69:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:68:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:74:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:67:13-75
+activity#${applicationId}.loader.a.Activity0_singleInstance1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:75:9-82:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:81:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:80:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:79:13-48
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:78:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:77:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:76:13-79
+activity#com.mytest.mytestdemo.loader.a.Activity0_singleInstance1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:75:9-82:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:81:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:80:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:79:13-48
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:78:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:77:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:76:13-79
+activity#${applicationId}.loader.a.Activity0_task
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:83:9-89:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:88:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:87:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:86:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:85:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:89:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:84:13-68
+activity#com.mytest.mytestdemo.loader.a.Activity0_task
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:83:9-89:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:88:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:87:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:86:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:85:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:89:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:84:13-68
+activity#${applicationId}.loader.a.Activity0_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:90:9-96:74
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:95:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:94:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:93:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:92:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:96:13-71
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:91:13-74
+activity#com.mytest.mytestdemo.loader.a.Activity0_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:90:9-96:74
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:95:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:94:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:93:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:92:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:96:13-71
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:91:13-74
+activity#${applicationId}.loader.a.Activity0_translucent
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:97:9-103:75
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:102:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:101:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:100:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:99:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:103:13-72
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:98:13-75
+activity#com.mytest.mytestdemo.loader.a.Activity0_translucent
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:97:9-103:75
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:102:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:101:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:100:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:99:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:103:13-72
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:98:13-75
+activity#${applicationId}.loader.a.Activity0_translucent_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:104:9-110:86
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:109:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:108:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:107:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:106:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:110:13-83
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:105:13-86
+activity#com.mytest.mytestdemo.loader.a.Activity0_translucent_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:104:9-110:86
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:109:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:108:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:107:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:106:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:110:13-83
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:105:13-86
+activity#${applicationId}.loader.a.Activity0_dialog
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:111:9-117:59
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:116:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:115:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:114:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:113:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:117:13-56
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:112:13-70
+activity#com.mytest.mytestdemo.loader.a.Activity0_dialog
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:111:9-117:59
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:116:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:115:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:114:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:113:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:117:13-56
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:112:13-70
+activity#${applicationId}.loader.a.Activity0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:118:9-125:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:123:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:122:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:121:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:120:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:125:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:119:13-63
+activity#com.mytest.mytestdemo.loader.a.Activity0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:118:9-125:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:123:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:122:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:121:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:120:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:125:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:119:13-63
+provider#com.qihoo360.replugin.component.process.ProcessPitProviderLoader1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:127:9-131:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:131:13-39
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:129:13-66
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:130:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:128:13-93
+provider#${applicationId}.loader.p.Provider1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:132:9-136:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:136:13-39
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:134:13-64
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:135:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:133:13-63
+provider#com.mytest.mytestdemo.loader.p.Provider1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:132:9-136:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:136:13-39
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:134:13-64
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:135:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:133:13-63
+service#${applicationId}.loader.s.Service1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:138:9-141:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:141:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:139:13-62
+service#com.mytest.mytestdemo.loader.s.Service1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:138:9-141:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:141:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:139:13-62
+activity#${applicationId}.loader.a.Activity1_singleTask1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:143:9-151:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:149:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:148:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:147:13-44
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:146:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:145:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:151:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:150:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:144:13-75
+activity#com.mytest.mytestdemo.loader.a.Activity1_singleTask1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:143:9-151:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:149:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:148:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:147:13-44
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:146:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:145:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:151:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:150:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:144:13-75
+activity#${applicationId}.loader.a.Activity1_singleInstance1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:152:9-159:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:158:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:157:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:156:13-48
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:155:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:154:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:159:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:153:13-79
+activity#com.mytest.mytestdemo.loader.a.Activity1_singleInstance1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:152:9-159:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:158:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:157:13-39
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:156:13-48
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:155:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:154:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:159:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:153:13-79
+activity#${applicationId}.loader.a.Activity1_task
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:160:9-166:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:165:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:164:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:163:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:162:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:166:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:161:13-68
+activity#com.mytest.mytestdemo.loader.a.Activity1_task
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:160:9-166:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:165:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:164:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:163:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:162:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:166:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:161:13-68
+activity#${applicationId}.loader.a.Activity1_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:167:9-173:74
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:172:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:171:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:170:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:169:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:173:13-71
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:168:13-74
+activity#com.mytest.mytestdemo.loader.a.Activity1_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:167:9-173:74
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:172:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:171:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:170:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:169:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:173:13-71
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:168:13-74
+activity#${applicationId}.loader.a.Activity1_translucent
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:174:9-180:75
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:179:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:178:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:177:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:176:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:180:13-72
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:175:13-75
+activity#com.mytest.mytestdemo.loader.a.Activity1_translucent
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:174:9-180:75
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:179:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:178:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:177:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:176:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:180:13-72
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:175:13-75
+activity#${applicationId}.loader.a.Activity1_translucent_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:181:9-187:86
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:186:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:185:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:184:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:183:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:187:13-83
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:182:13-86
+activity#com.mytest.mytestdemo.loader.a.Activity1_translucent_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:181:9-187:86
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:186:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:185:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:184:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:183:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:187:13-83
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:182:13-86
+activity#${applicationId}.loader.a.Activity1_dialog
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:188:9-194:59
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:193:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:192:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:191:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:190:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:194:13-56
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:189:13-70
+activity#com.mytest.mytestdemo.loader.a.Activity1_dialog
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:188:9-194:59
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:193:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:192:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:191:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:190:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:194:13-56
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:189:13-70
+activity#${applicationId}.loader.a.Activity1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:195:9-202:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:200:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:199:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:198:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:197:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:202:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:201:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:196:13-63
+activity#com.mytest.mytestdemo.loader.a.Activity1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:195:9-202:63
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:200:13-49
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:199:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:198:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:197:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:202:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:201:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:196:13-63
+provider#com.qihoo360.replugin.component.provider.PluginPitProviderUI
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:204:9-207:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:206:13-65
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:207:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:205:13-88
+service#com.qihoo360.replugin.component.service.server.PluginPitServiceUI
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:209:9-101
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:209:18-98
+provider#com.qihoo360.replugin.packages.PluginFastInstallProvider
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:216:9-220:20
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:218:13-64
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:219:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\replugin-host-lib-2.2.4.aar\7ce1ca767a9e1662537d7fe274e7f5d6\AndroidManifest.xml:217:13-84

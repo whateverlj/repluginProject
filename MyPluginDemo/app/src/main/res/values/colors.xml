@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#fff</color>
+
+    <!-- 标题栏返回按钮的背景颜色 -->
+    <drawable name="button_backward_pressed">#FF3030</drawable>
+    <drawable name="button_backward_normal">#0000</drawable>
+
+    <color name="main_color">#ed4255</color>
+    <color name="main_text_color">#353535</color>
+    <color name="transparent">#0000</color>
+
+    <!-- 内容条目按下时的样式 -->
+    <drawable name="pressed_bg">#f2f2f2</drawable>
+    <drawable name="nopressed_bg">#fff</drawable>
+
+    <color name="gray">#808080</color>
+
+</resources>
